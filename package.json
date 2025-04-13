@@ -1,0 +1,12 @@
+{
+    "name": "javatest",
+    "version": "0.0.1",
+    "main": "target/Main-0.0.1-jar-with-dependencies.jar",
+    "openiap": {
+        "language": "java",
+        "type": "jar",
+        "typescript": false,
+        "daemon": true,
+        "chromium": false
+    }
+}
