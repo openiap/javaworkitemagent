@@ -91,7 +91,7 @@ public class Main {
                 .build(), (eventPtr) -> {
                     try {
                         client.info(finalWiq + " received message notification, processing...");
-                        
+                                                
                         // Spawn a thread to handle popWorkitem since registerQueueAsync callback is blocking
                         new Thread(() -> {
                             try {

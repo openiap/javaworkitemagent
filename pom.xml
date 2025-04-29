@@ -18,7 +18,7 @@
         <dependency>
             <groupId>io.openiap</groupId>
             <artifactId>client</artifactId>
-            <version>0.0.33</version>
+            <version>0.0.36</version>
         </dependency>
                 <!-- Jackson Core -->
         <dependency>
